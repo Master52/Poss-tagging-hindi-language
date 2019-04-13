@@ -2,7 +2,7 @@
 poss tagging hindi language using indic_nlp_library and nltk
 
 
-##INSTALLATION
+## INSTALLATION
 
 ```
 	chmod +x install.sh && ./install.sh
